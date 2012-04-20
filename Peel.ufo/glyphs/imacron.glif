@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="imacron" format="1">
-  <advance width="352"/>
-  <unicode hex="012B"/>
+  <advance width="456"/>
+  <unicode hex="012b"/>
   <outline>
-    <component base="macron" xOffset="-84.500" yOffset="886"/>
-    <component base="dotlessi"/>
+    <contour>
+      <point x="-6" y="1149" type="line" smooth="no"/>
+      <point x="-6" y="1301" type="line" smooth="no"/>
+      <point x="507" y="1301" type="line" smooth="no"/>
+      <point x="507" y="1149" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="342" y="998" type="line" smooth="no"/>
+      <point x="342" y="0" type="line" smooth="no"/>
+      <point x="161" y="0" type="line" smooth="no"/>
+      <point x="161" y="998" type="line" smooth="no"/>
+    </contour>
   </outline>
 </glyph>

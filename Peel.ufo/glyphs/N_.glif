@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="1241"/>
-  <unicode hex="004E"/>
+  <advance width="1595"/>
+  <unicode hex="004e"/>
   <outline>
     <contour>
-      <point x="98" y="0" type="line"/>
-      <point x="98" y="1174" type="line"/>
-      <point x="220" y="1174" type="line"/>
-      <point x="996" y="248" type="line"/>
-      <point x="996" y="1174" type="line"/>
-      <point x="1143" y="1174" type="line"/>
-      <point x="1143" y="0" type="line"/>
-      <point x="1014" y="0" type="line"/>
-      <point x="242" y="918" type="line"/>
-      <point x="242" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="621" y="1174" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="621" y="0" type="move" name="bottom"/>
+      <point x="308" y="0" type="line" smooth="no"/>
+      <point x="126" y="0" type="line" smooth="no"/>
+      <point x="126" y="1516" type="line" smooth="no"/>
+      <point x="280" y="1516" type="line" smooth="no"/>
+      <point x="1284" y="311" type="line" smooth="no"/>
+      <point x="1284" y="1516" type="line" smooth="no"/>
+      <point x="1469" y="1516" type="line" smooth="no"/>
+      <point x="1469" y="0" type="line" smooth="no"/>
+      <point x="1305" y="0" type="line" smooth="no"/>
+      <point x="308" y="1193" type="line" smooth="no"/>
     </contour>
   </outline>
 </glyph>
