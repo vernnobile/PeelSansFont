@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex" format="1">
+  <advance width="1486"/>
+  <unicode hex="0124"/>
+  <outline>
+    <contour>
+      <point x="437" y="1567" type="curve" smooth="yes"/>
+      <point x="442" y="1567" type="line" smooth="yes"/>
+      <point x="442" y="1567"/>
+      <point x="472" y="1578"/>
+      <point x="473" y="1577" type="curve"/>
+      <point x="741" y="1763" type="line"/>
+      <point x="1010" y="1575" type="line"/>
+      <point x="1019" y="1570"/>
+      <point x="1040" y="1567"/>
+      <point x="1042" y="1567" type="curve" smooth="yes"/>
+      <point x="1073" y="1567"/>
+      <point x="1095" y="1589"/>
+      <point x="1095" y="1620" type="curve" smooth="yes"/>
+      <point x="1095" y="1638" type="line"/>
+      <point x="823" y="2058" type="line" smooth="yes"/>
+      <point x="807" y="2083"/>
+      <point x="772" y="2096"/>
+      <point x="741" y="2096" type="curve" smooth="yes"/>
+      <point x="706" y="2096"/>
+      <point x="681" y="2082"/>
+      <point x="663" y="2061" type="curve"/>
+      <point x="393" y="1645" type="line"/>
+      <point x="385" y="1626"/>
+      <point x="387" y="1621"/>
+      <point x="387" y="1620" type="curve" smooth="yes"/>
+      <point x="387" y="1571"/>
+      <point x="423" y="1567"/>
+    </contour>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="371" y="0" type="line"/>
+      <point x="371" y="635" type="line"/>
+      <point x="1115" y="635" type="line"/>
+      <point x="1115" y="0" type="line"/>
+      <point x="1410" y="0" type="line"/>
+      <point x="1410" y="1516" type="line"/>
+      <point x="1115" y="1516" type="line"/>
+      <point x="1115" y="905" type="line"/>
+      <point x="371" y="905" type="line"/>
+      <point x="371" y="1516" type="line"/>
+      <point x="76" y="1516" type="line"/>
+    </contour>
+  </outline>
+</glyph>
