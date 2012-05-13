@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="1015"/>
+  <advance width="1093"/>
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="52" y="0" type="line"/>
-      <point x="333" y="0" type="line"/>
-      <point x="333" y="670" type="line"/>
-      <point x="376" y="730"/>
-      <point x="448" y="794"/>
-      <point x="559" y="795" type="curve" smooth="yes"/>
-      <point x="627" y="795"/>
-      <point x="687" y="754"/>
-      <point x="687" y="641" type="curve" smooth="yes"/>
-      <point x="687" y="0" type="line"/>
-      <point x="967" y="0" type="line"/>
-      <point x="967" y="663" type="line" smooth="yes"/>
-      <point x="967" y="866"/>
-      <point x="842" y="1015"/>
-      <point x="626" y="1015" type="curve" smooth="yes"/>
-      <point x="558" y="1015"/>
-      <point x="412" y="988"/>
-      <point x="329" y="849" type="curve"/>
-      <point x="329" y="996" type="line"/>
-      <point x="52" y="996" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="381" y="670" type="line"/>
+      <point x="424" y="730"/>
+      <point x="490" y="794"/>
+      <point x="601" y="795" type="curve" smooth="yes"/>
+      <point x="669" y="795"/>
+      <point x="729" y="754"/>
+      <point x="729" y="641" type="curve" smooth="yes"/>
+      <point x="729" y="0" type="line"/>
+      <point x="1009" y="0" type="line"/>
+      <point x="1009" y="663" type="line" smooth="yes"/>
+      <point x="1009" y="866"/>
+      <point x="884" y="1015"/>
+      <point x="668" y="1015" type="curve" smooth="yes"/>
+      <point x="600" y="1015"/>
+      <point x="460" y="988"/>
+      <point x="377" y="849" type="curve"/>
+      <point x="377" y="996" type="line"/>
+      <point x="100" y="996" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -83,7 +83,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1015</integer>
+          <integer>1093</integer>
         </dict>
       </dict>
     </dict>

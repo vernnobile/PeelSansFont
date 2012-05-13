@@ -3,21 +3,22 @@
 <!-- Superpolator Designspace Object -->
 
 <!-- info -->
-<version format="111003_1758_developer_" superpolator="1" />
+<version format="110221_1144_developer_" superpolator="1" />
 <!-- application data -->
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="Auto" />
-<data name="previewtext" value="Sopaleno" />
+<data name="previewTypeSize" value="300.0" />
+<data name="previewtext" value="Poganc" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="0.392699081699" />
+<data name="projectionAngle" value="2.73964081777" />
 <!-- axis definitions -->
 <axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
 <master filename="Peel.ufo">
 <location>
+<dimension name="new_axis_1" xvalue="0" />
 </location>
 <!-- color for Peel.ufo -->
 <color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />

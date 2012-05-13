@@ -6,8 +6,8 @@
     <contour>
       <point x="144" y="0" type="line"/>
       <point x="321" y="0" type="line"/>
-      <point x="321" y="999" type="line"/>
-      <point x="144" y="999" type="line"/>
+      <point x="321" y="998" type="line"/>
+      <point x="144" y="998" type="line"/>
     </contour>
     <contour>
       <point x="233" y="1157" type="curve" smooth="yes"/>
@@ -24,4 +24,11 @@
       <point x="151" y="1157"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

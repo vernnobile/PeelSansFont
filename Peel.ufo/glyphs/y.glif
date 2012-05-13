@@ -6,12 +6,19 @@
     <contour>
       <point x="203" y="-268" type="line"/>
       <point x="400" y="-268" type="line"/>
-      <point x="993" y="997" type="line"/>
-      <point x="800" y="997" type="line"/>
+      <point x="993" y="998" type="line"/>
+      <point x="800" y="998" type="line"/>
       <point x="535" y="406" type="line"/>
-      <point x="263" y="997" type="line"/>
-      <point x="45" y="997" type="line"/>
+      <point x="263" y="998" type="line"/>
+      <point x="45" y="998" type="line"/>
       <point x="434" y="246" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
