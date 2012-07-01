@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g" format="1">
+  <advance width="1197"/>
+  <unicode hex="0067"/>
+  <outline>
+    <contour>
+      <point x="607" y="-437" type="curve" smooth="yes"/>
+      <point x="820" y="-437"/>
+      <point x="1029" y="-344"/>
+      <point x="1029" y="-53" type="curve" smooth="yes"/>
+      <point x="1029" y="998" type="line"/>
+      <point x="847" y="998" type="line"/>
+      <point x="847" y="884" type="line"/>
+      <point x="755" y="976"/>
+      <point x="661" y="1015"/>
+      <point x="571" y="1015" type="curve" smooth="yes"/>
+      <point x="345" y="1015"/>
+      <point x="119" y="806"/>
+      <point x="119" y="526" type="curve" smooth="yes"/>
+      <point x="119" y="268"/>
+      <point x="274" y="0"/>
+      <point x="593" y="0" type="curve" smooth="yes"/>
+      <point x="737" y="0"/>
+      <point x="841" y="85"/>
+      <point x="844" y="87" type="curve"/>
+      <point x="860" y="33"/>
+      <point x="868" y="-16"/>
+      <point x="868" y="-59" type="curve" smooth="yes"/>
+      <point x="868" y="-230"/>
+      <point x="757" y="-291"/>
+      <point x="615" y="-291" type="curve" smooth="yes"/>
+      <point x="520" y="-291"/>
+      <point x="410" y="-264"/>
+      <point x="308" y="-223" type="curve"/>
+      <point x="308" y="-379" type="line"/>
+      <point x="392" y="-414"/>
+      <point x="500" y="-437"/>
+    </contour>
+    <contour>
+      <point x="628" y="152" type="curve" smooth="yes"/>
+      <point x="436" y="152"/>
+      <point x="309" y="287"/>
+      <point x="309" y="517" type="curve" smooth="yes"/>
+      <point x="309" y="734"/>
+      <point x="459" y="862"/>
+      <point x="613" y="862" type="curve" smooth="yes"/>
+      <point x="685" y="862"/>
+      <point x="765" y="835"/>
+      <point x="844" y="773" type="curve"/>
+      <point x="844" y="202" type="line"/>
+      <point x="765" y="168"/>
+      <point x="692" y="152"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>g</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1197</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

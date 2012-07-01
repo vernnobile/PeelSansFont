@@ -4,32 +4,61 @@
   <unicode hex="003A"/>
   <outline>
     <contour>
-      <point x="320" y="59" type="curve" smooth="yes"/>
-      <point x="404" y="59"/>
-      <point x="501" y="118"/>
-      <point x="501" y="236" type="curve" smooth="yes"/>
-      <point x="501" y="356"/>
-      <point x="407" y="420"/>
-      <point x="320" y="420" type="curve" smooth="yes"/>
-      <point x="232" y="420"/>
-      <point x="139" y="357"/>
-      <point x="139" y="236" type="curve" smooth="yes"/>
-      <point x="139" y="118"/>
-      <point x="235" y="59"/>
+      <point x="320" y="1" type="curve" smooth="yes"/>
+      <point x="404" y="1"/>
+      <point x="501" y="60"/>
+      <point x="501" y="178" type="curve" smooth="yes"/>
+      <point x="501" y="298"/>
+      <point x="407" y="362"/>
+      <point x="320" y="362" type="curve" smooth="yes"/>
+      <point x="232" y="362"/>
+      <point x="139" y="299"/>
+      <point x="139" y="178" type="curve" smooth="yes"/>
+      <point x="139" y="60"/>
+      <point x="235" y="1"/>
     </contour>
     <contour>
-      <point x="320" y="576" type="curve" smooth="yes"/>
-      <point x="404" y="576"/>
-      <point x="501" y="634"/>
-      <point x="501" y="752" type="curve" smooth="yes"/>
-      <point x="501" y="872"/>
-      <point x="408" y="937"/>
-      <point x="320" y="937" type="curve" smooth="yes"/>
-      <point x="232" y="937"/>
-      <point x="139" y="873"/>
-      <point x="139" y="752" type="curve" smooth="yes"/>
-      <point x="139" y="635"/>
-      <point x="235" y="576"/>
+      <point x="320" y="635" type="curve" smooth="yes"/>
+      <point x="404" y="635"/>
+      <point x="501" y="693"/>
+      <point x="501" y="811" type="curve" smooth="yes"/>
+      <point x="501" y="931"/>
+      <point x="408" y="996"/>
+      <point x="320" y="996" type="curve" smooth="yes"/>
+      <point x="232" y="996"/>
+      <point x="139" y="932"/>
+      <point x="139" y="811" type="curve" smooth="yes"/>
+      <point x="139" y="694"/>
+      <point x="235" y="635"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>colon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>640</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

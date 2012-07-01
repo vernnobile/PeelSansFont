@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="1">
-  <advance width="1392"/>
+  <advance width="1638"/>
   <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="56" y="0" type="line"/>
-      <point x="1365" y="0" type="line"/>
-      <point x="1365" y="270" type="line"/>
-      <point x="536" y="270" type="line"/>
-      <point x="1351" y="1418" type="line"/>
-      <point x="1326" y="1516" type="line"/>
-      <point x="95" y="1516" type="line"/>
-      <point x="95" y="1250" type="line"/>
-      <point x="873" y="1250" type="line"/>
-      <point x="42" y="66" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="1475" y="0" type="line"/>
+      <point x="1475" y="266" type="line"/>
+      <point x="646" y="266" type="line"/>
+      <point x="1461" y="1418" type="line"/>
+      <point x="1436" y="1516" type="line"/>
+      <point x="205" y="1516" type="line"/>
+      <point x="205" y="1250" type="line"/>
+      <point x="983" y="1250" type="line"/>
+      <point x="152" y="66" type="line"/>
+    </contour>
+    <contour>
+      <point x="806" y="1516" type="move"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +43,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1392</integer>
+          <integer>1638</integer>
         </dict>
       </dict>
     </dict>

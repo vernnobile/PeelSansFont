@@ -1,22 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="1">
-  <advance width="2193"/>
+  <advance width="2500"/>
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="1521" y="-25" type="line"/>
-      <point x="1648" y="-25" type="line"/>
-      <point x="2245" y="1516" type="line"/>
-      <point x="1934" y="1516" type="line"/>
-      <point x="1584" y="552" type="line"/>
-      <point x="1228" y="1516" type="line"/>
-      <point x="967" y="1516" type="line"/>
-      <point x="599" y="560" type="line"/>
-      <point x="267" y="1516" type="line"/>
-      <point x="-55" y="1516" type="line"/>
-      <point x="539" y="-22" type="line"/>
-      <point x="658" y="-22" type="line"/>
-      <point x="1094" y="1070" type="line"/>
+      <point x="1676" y="-25" type="line"/>
+      <point x="1803" y="-25" type="line"/>
+      <point x="2400" y="1516" type="line"/>
+      <point x="2089" y="1516" type="line"/>
+      <point x="1739" y="552" type="line"/>
+      <point x="1383" y="1516" type="line"/>
+      <point x="1122" y="1516" type="line"/>
+      <point x="754" y="560" type="line"/>
+      <point x="422" y="1516" type="line"/>
+      <point x="100" y="1516" type="line"/>
+      <point x="694" y="-22" type="line"/>
+      <point x="813" y="-22" type="line"/>
+      <point x="1249" y="1070" type="line"/>
+    </contour>
+    <contour>
+      <point x="1252" y="1516" type="move"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>W</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

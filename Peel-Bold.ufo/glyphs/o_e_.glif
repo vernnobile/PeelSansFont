@@ -44,5 +44,8 @@
       <point x="1314" y="482"/>
       <point x="1093" y="265"/>
     </contour>
+    <contour>
+      <point x="1149" y="1516" type="move"/>
+    </contour>
   </outline>
 </glyph>

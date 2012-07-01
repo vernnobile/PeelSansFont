@@ -25,5 +25,8 @@
       <point x="261" y="100"/>
       <point x="281" y="79"/>
     </contour>
+    <contour>
+      <point x="186" y="996" type="move"/>
+    </contour>
   </outline>
 </glyph>

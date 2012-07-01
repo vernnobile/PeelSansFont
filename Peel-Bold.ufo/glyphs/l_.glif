@@ -1,15 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="1027"/>
+  <advance width="1122"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="77" y="0" type="line"/>
-      <point x="997" y="0" type="line"/>
-      <point x="997" y="281" type="line"/>
-      <point x="371" y="281" type="line"/>
-      <point x="371" y="1516" type="line"/>
-      <point x="77" y="1516" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="1094" y="0" type="line"/>
+      <point x="1094" y="266" type="line"/>
+      <point x="468" y="266" type="line"/>
+      <point x="468" y="1516" type="line"/>
+      <point x="174" y="1516" type="line"/>
+    </contour>
+    <contour>
+      <point x="611" y="1516" type="move"/>
+    </contour>
+    <contour>
+      <point x="611" y="0" type="move"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>L</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1122</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
