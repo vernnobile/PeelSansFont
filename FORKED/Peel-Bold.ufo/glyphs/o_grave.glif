@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="1">
+  <advance width="1757"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <contour>
+      <point x="1004" y="1565" type="curve" smooth="yes"/>
+      <point x="1056" y="1565"/>
+      <point x="1063" y="1618"/>
+      <point x="1063" y="1630" type="curve" smooth="yes"/>
+      <point x="1063" y="1634"/>
+      <point x="1064" y="1648"/>
+      <point x="1060" y="1662" type="curve"/>
+      <point x="974" y="2040" type="line"/>
+      <point x="949" y="2118"/>
+      <point x="892" y="2164"/>
+      <point x="829" y="2164" type="curve" smooth="yes"/>
+      <point x="757" y="2164"/>
+      <point x="685" y="2108"/>
+      <point x="685" y="2023" type="curve" smooth="yes"/>
+      <point x="685" y="1984"/>
+      <point x="700" y="1949"/>
+      <point x="727" y="1913" type="curve"/>
+      <point x="936" y="1605" type="line" smooth="yes"/>
+      <point x="951" y="1583"/>
+      <point x="973" y="1565"/>
+    </contour>
+    <contour>
+      <point x="877" y="264" type="curve" smooth="yes"/>
+      <point x="592" y="264"/>
+      <point x="356" y="484"/>
+      <point x="356" y="758" type="curve" smooth="yes"/>
+      <point x="356" y="1032"/>
+      <point x="592" y="1253"/>
+      <point x="877" y="1253" type="curve" smooth="yes"/>
+      <point x="1162" y="1253"/>
+      <point x="1400" y="1032"/>
+      <point x="1400" y="758" type="curve" smooth="yes"/>
+      <point x="1400" y="484"/>
+      <point x="1162" y="264"/>
+    </contour>
+    <contour>
+      <point x="877" y="-21" type="curve" smooth="yes"/>
+      <point x="1330" y="-21"/>
+      <point x="1701" y="330"/>
+      <point x="1701" y="758" type="curve" smooth="yes"/>
+      <point x="1701" y="1187"/>
+      <point x="1329" y="1535"/>
+      <point x="877" y="1535" type="curve" smooth="yes"/>
+      <point x="424" y="1535"/>
+      <point x="54" y="1187"/>
+      <point x="54" y="758" type="curve" smooth="yes"/>
+      <point x="54" y="330"/>
+      <point x="423" y="-21"/>
+    </contour>
+  </outline>
+</glyph>
