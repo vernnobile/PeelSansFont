@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0208" format="1">
-  <advance width="428"/>
+  <advance width="626"/>
   <unicode hex="0208"/>
   <outline>
-    <contour>
-      <point x="69" y="0" type="line"/>
-      <point x="362" y="0" type="line"/>
-      <point x="362" y="1516" type="line"/>
-      <point x="69" y="1516" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="dblgravecmb" xOffset="-53" yOffset="518"/>
   </outline>
 </glyph>

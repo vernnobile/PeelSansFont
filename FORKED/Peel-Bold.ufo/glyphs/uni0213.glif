@@ -1,52 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0213" format="1">
-  <advance width="823"/>
+  <advance width="975"/>
   <unicode hex="0213"/>
   <outline>
-    <contour>
-      <point x="57" y="0" type="line"/>
-      <point x="57" y="999" type="line"/>
-      <point x="335" y="999" type="line"/>
-      <point x="335" y="902" type="line"/>
-      <point x="390" y="967"/>
-      <point x="465" y="1017"/>
-      <point x="561" y="1017" type="curve" smooth="yes"/>
-      <point x="629" y="1017"/>
-      <point x="725" y="980"/>
-      <point x="810" y="884" type="curve" smooth="yes"/>
-      <point x="837" y="853" type="line"/>
-      <point x="656" y="605" type="line"/>
-      <point x="615" y="659" type="line" smooth="yes"/>
-      <point x="587" y="695"/>
-      <point x="546" y="725"/>
-      <point x="517" y="725" type="curve" smooth="yes"/>
-      <point x="486" y="725"/>
-      <point x="410" y="702"/>
-      <point x="366" y="594" type="curve" smooth="yes"/>
-      <point x="347" y="548"/>
-      <point x="335" y="487"/>
-      <point x="335" y="406" type="curve" smooth="yes"/>
-      <point x="335" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="113" y="1047" type="line"/>
-      <point x="115" y="1100" type="line" smooth="yes"/>
-      <point x="123" y="1291"/>
-      <point x="290" y="1401"/>
-      <point x="438" y="1401" type="curve" smooth="yes"/>
-      <point x="583" y="1401"/>
-      <point x="751" y="1292"/>
-      <point x="758" y="1100" type="curve" smooth="yes"/>
-      <point x="760" y="1047" type="line"/>
-      <point x="517" y="1047" type="line"/>
-      <point x="512" y="1092" type="line" smooth="yes"/>
-      <point x="505" y="1152"/>
-      <point x="477" y="1171"/>
-      <point x="437" y="1171" type="curve" smooth="yes"/>
-      <point x="396" y="1171"/>
-      <point x="368" y="1153"/>
-      <point x="361" y="1092" type="curve" smooth="yes"/>
-      <point x="355" y="1047" type="line"/>
-    </contour>
+    <component base="r"/>
+    <component base="uni0311" xOffset="245" yOffset="1057"/>
   </outline>
 </glyph>

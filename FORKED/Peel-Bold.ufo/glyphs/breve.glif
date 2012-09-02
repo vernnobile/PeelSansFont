@@ -5,22 +5,22 @@
   <outline>
     <contour>
       <point x="326" y="122" type="curve" smooth="yes"/>
-      <point x="484" y="122"/>
-      <point x="631" y="223"/>
-      <point x="640" y="463" type="curve"/>
-      <point x="436" y="463" type="line"/>
-      <point x="425" y="361"/>
-      <point x="373" y="338"/>
-      <point x="325" y="338" type="curve" smooth="yes"/>
-      <point x="281" y="338"/>
-      <point x="226" y="360"/>
-      <point x="215" y="463" type="curve"/>
-      <point x="11" y="463" type="line"/>
-      <point x="20" y="223"/>
       <point x="174" y="122"/>
+      <point x="20" y="223"/>
+      <point x="11" y="463" type="curve"/>
+      <point x="215" y="463" type="line"/>
+      <point x="226" y="360"/>
+      <point x="281" y="338"/>
+      <point x="325" y="338" type="curve" smooth="yes"/>
+      <point x="373" y="338"/>
+      <point x="425" y="361"/>
+      <point x="436" y="463" type="curve"/>
+      <point x="640" y="463" type="line"/>
+      <point x="631" y="223"/>
+      <point x="484" y="122"/>
     </contour>
     <contour>
-      <point x="325" y="996" type="move"/>
+      <point x="325.5" y="996" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

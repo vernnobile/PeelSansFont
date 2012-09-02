@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordmasculine" format="1">
-  <advance width="1198"/>
+  <advance width="1328"/>
   <unicode hex="00BA"/>
   <outline>
-    <component base="uni020D" xScale="0.977536971842" yScale="0.975281996043" xOffset="12" yOffset="499"/>
+    <component base="uni020D" xOffset="12" yOffset="499" xScale="0.98" yScale="0.98"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ordmasculine</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1198</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

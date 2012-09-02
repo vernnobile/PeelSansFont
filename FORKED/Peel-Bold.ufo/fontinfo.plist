@@ -5,29 +5,33 @@
 	<key>ascender</key>
 	<integer>1491</integer>
 	<key>capHeight</key>
-	<integer>1516</integer>
+	<integer>1514</integer>
 	<key>copyright</key>
 	<string>Vernon Adams</string>
 	<key>descender</key>
 	<integer>-410</integer>
 	<key>familyName</key>
-	<string>Peel Bold</string>
+	<string>Peel Bold Bold</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
-	<key>macintoshFONDFamilyID</key>
-	<integer>128</integer>
 	<key>macintoshFONDName</key>
 	<string>Peel Bold</string>
-	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>9</integer>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/07/23 07:43:38</string>
 	<key>openTypeHheaAscender</key>
-	<integer>1695</integer>
+	<integer>1638</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-482</integer>
+	<integer>-410</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Peel Bold</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold</string>
 	<key>openTypeNameUniqueID</key>
 	<string>vernon adams : Peel Bold : 2-6-2012</string>
 	<key>openTypeNameVersion</key>
@@ -69,7 +73,7 @@
 	<key>openTypeOS2SuperscriptXOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SuperscriptXSize</key>
-	<integer>1331</integer>
+	<real>1331</real>
 	<key>openTypeOS2SuperscriptYOffset</key>
 	<integer>983</integer>
 	<key>openTypeOS2SuperscriptYSize</key>
@@ -78,12 +82,6 @@
 	<array>
 		<integer>3</integer>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>1638</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-410</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>0</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
 		<integer>0</integer>
@@ -104,11 +102,11 @@
 	<key>openTypeOS2WinAscent</key>
 	<integer>1695</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>-482</integer>
+	<integer>482</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.022499999999999999</real>
+	<real>0.022500000894069672</real>
 	<key>postscriptBlueShift</key>
 	<integer>0</integer>
 	<key>postscriptBlueValues</key>
@@ -120,51 +118,21 @@
 		<integer>1514</integer>
 		<integer>1536</integer>
 	</array>
-	<key>postscriptDefaultCharacter</key>
-	<string>space</string>
-	<key>postscriptDefaultWidthX</key>
-	<integer>500</integer>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
 	<key>postscriptFontName</key>
 	<string>Peel-Bold</string>
 	<key>postscriptForceBold</key>
 	<true/>
 	<key>postscriptFullName</key>
 	<string>Peel Bold</string>
-	<key>postscriptIsFixedPitch</key>
-	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-405</integer>
 		<integer>-361</integer>
 	</array>
-	<key>postscriptSlantAngle</key>
-	<real>0.0</real>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>0</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>0</integer>
-	<key>postscriptUniqueID</key>
-	<integer>-1</integer>
 	<key>postscriptWeightName</key>
 	<string>Normal</string>
-	<key>postscriptWindowsCharacterSet</key>
-	<integer>1</integer>
-	<key>styleMapFamilyName</key>
-	<string>Peel Bold</string>
 	<key>styleMapStyleName</key>
-	<string>bold</string>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Bold</string>
 	<key>unitsPerEm</key>
@@ -172,10 +140,8 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>996</integer>
-	<key>year</key>
-	<integer>2012</integer>
 </dict>
 </plist>

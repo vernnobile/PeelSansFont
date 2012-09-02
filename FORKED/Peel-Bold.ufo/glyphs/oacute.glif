@@ -1,57 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="1">
-  <advance width="1198"/>
+  <advance width="1328"/>
   <unicode hex="00F3"/>
   <outline>
-    <contour>
-      <point x="465" y="1046" type="curve" smooth="yes"/>
-      <point x="508" y="1046"/>
-      <point x="520" y="1073"/>
-      <point x="531" y="1090" type="curve"/>
-      <point x="751" y="1379" type="line" smooth="yes"/>
-      <point x="779" y="1417"/>
-      <point x="795" y="1456"/>
-      <point x="795" y="1495" type="curve" smooth="yes"/>
-      <point x="795" y="1581"/>
-      <point x="721" y="1633"/>
-      <point x="653" y="1633" type="curve" smooth="yes"/>
-      <point x="589" y="1633"/>
-      <point x="529" y="1589"/>
-      <point x="506" y="1509" type="curve"/>
-      <point x="409" y="1147" type="line"/>
-      <point x="405" y="1135"/>
-      <point x="404" y="1123"/>
-      <point x="404" y="1112" type="curve" smooth="yes"/>
-      <point x="404" y="1102"/>
-      <point x="409" y="1046"/>
-    </contour>
-    <contour>
-      <point x="599" y="234" type="curve" smooth="yes"/>
-      <point x="429" y="234"/>
-      <point x="311" y="350"/>
-      <point x="311" y="498" type="curve" smooth="yes"/>
-      <point x="311" y="648"/>
-      <point x="429" y="761"/>
-      <point x="599" y="761" type="curve" smooth="yes"/>
-      <point x="770" y="761"/>
-      <point x="889" y="648"/>
-      <point x="889" y="498" type="curve" smooth="yes"/>
-      <point x="889" y="350"/>
-      <point x="769" y="234"/>
-    </contour>
-    <contour>
-      <point x="599" y="-19" type="curve" smooth="yes"/>
-      <point x="908" y="-19"/>
-      <point x="1170" y="188"/>
-      <point x="1170" y="500" type="curve" smooth="yes"/>
-      <point x="1170" y="810"/>
-      <point x="907" y="1016"/>
-      <point x="599" y="1016" type="curve" smooth="yes"/>
-      <point x="290" y="1016"/>
-      <point x="30" y="810"/>
-      <point x="30" y="500" type="curve" smooth="yes"/>
-      <point x="30" y="188"/>
-      <point x="290" y="-19"/>
-    </contour>
+    <component base="acute" xOffset="609" yOffset="1067.110"/>
+    <component base="o"/>
   </outline>
 </glyph>

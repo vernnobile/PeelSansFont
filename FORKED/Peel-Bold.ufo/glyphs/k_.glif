@@ -5,53 +5,24 @@
   <outline>
     <contour>
       <point x="174" y="0" type="line"/>
-      <point x="468" y="0" type="line"/>
-      <point x="468" y="682" type="line"/>
-      <point x="1106" y="0" type="line"/>
-      <point x="1440" y="0" type="line"/>
-      <point x="1440" y="74" type="line"/>
-      <point x="767" y="775" type="line"/>
-      <point x="1342" y="1441" type="line"/>
-      <point x="1342" y="1516" type="line"/>
-      <point x="1041" y="1516" type="line"/>
-      <point x="468" y="817" type="line"/>
-      <point x="468" y="1516" type="line"/>
       <point x="174" y="1516" type="line"/>
+      <point x="468" y="1516" type="line"/>
+      <point x="468" y="817" type="line"/>
+      <point x="1041" y="1516" type="line"/>
+      <point x="1342" y="1516" type="line"/>
+      <point x="1342" y="1441" type="line"/>
+      <point x="767" y="775" type="line"/>
+      <point x="1440" y="74" type="line"/>
+      <point x="1440" y="0" type="line"/>
+      <point x="1106" y="0" type="line"/>
+      <point x="468" y="682" type="line"/>
+      <point x="468" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="760" y="1516" type="move"/>
+      <point x="761" y="1514" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="760" y="0" type="move"/>
+      <point x="761" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>K</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1522</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

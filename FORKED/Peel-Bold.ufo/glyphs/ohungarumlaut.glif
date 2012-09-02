@@ -1,79 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohungarumlaut" format="1">
-  <advance width="1198"/>
+  <advance width="1328"/>
   <unicode hex="0151"/>
   <outline>
-    <contour>
-      <point x="286" y="1046" type="curve" smooth="yes"/>
-      <point x="329" y="1046"/>
-      <point x="343" y="1076"/>
-      <point x="352" y="1089" type="curve" smooth="yes"/>
-      <point x="572" y="1379" type="line" smooth="yes"/>
-      <point x="601" y="1417"/>
-      <point x="617" y="1457"/>
-      <point x="617" y="1495" type="curve" smooth="yes"/>
-      <point x="617" y="1580"/>
-      <point x="546" y="1633"/>
-      <point x="476" y="1633" type="curve" smooth="yes"/>
-      <point x="412" y="1633"/>
-      <point x="352" y="1589"/>
-      <point x="329" y="1509" type="curve"/>
-      <point x="233" y="1147" type="line"/>
-      <point x="233" y="1146"/>
-      <point x="224" y="1137"/>
-      <point x="224" y="1112" type="curve" smooth="yes"/>
-      <point x="224" y="1084"/>
-      <point x="237" y="1046"/>
-    </contour>
-    <contour>
-      <point x="643" y="1046" type="curve" smooth="yes"/>
-      <point x="684" y="1046"/>
-      <point x="696" y="1070"/>
-      <point x="710" y="1089" type="curve" smooth="yes"/>
-      <point x="931" y="1379" type="line" smooth="yes"/>
-      <point x="961" y="1418"/>
-      <point x="974" y="1460"/>
-      <point x="974" y="1495" type="curve" smooth="yes"/>
-      <point x="974" y="1581"/>
-      <point x="902" y="1633"/>
-      <point x="833" y="1633" type="curve" smooth="yes"/>
-      <point x="767" y="1633"/>
-      <point x="710" y="1587"/>
-      <point x="685" y="1509" type="curve"/>
-      <point x="589" y="1149" type="line"/>
-      <point x="584" y="1133"/>
-      <point x="584" y="1117"/>
-      <point x="584" y="1112" type="curve" smooth="yes"/>
-      <point x="584" y="1107"/>
-      <point x="581" y="1046"/>
-    </contour>
-    <contour>
-      <point x="599" y="234" type="curve" smooth="yes"/>
-      <point x="429" y="234"/>
-      <point x="311" y="350"/>
-      <point x="311" y="498" type="curve" smooth="yes"/>
-      <point x="311" y="648"/>
-      <point x="429" y="761"/>
-      <point x="599" y="761" type="curve" smooth="yes"/>
-      <point x="770" y="761"/>
-      <point x="889" y="648"/>
-      <point x="889" y="498" type="curve" smooth="yes"/>
-      <point x="889" y="350"/>
-      <point x="769" y="234"/>
-    </contour>
-    <contour>
-      <point x="599" y="-19" type="curve" smooth="yes"/>
-      <point x="908" y="-19"/>
-      <point x="1170" y="188"/>
-      <point x="1170" y="500" type="curve" smooth="yes"/>
-      <point x="1170" y="810"/>
-      <point x="907" y="1016"/>
-      <point x="599" y="1016" type="curve" smooth="yes"/>
-      <point x="290" y="1016"/>
-      <point x="30" y="810"/>
-      <point x="30" y="500" type="curve" smooth="yes"/>
-      <point x="30" y="188"/>
-      <point x="290" y="-19"/>
-    </contour>
+    <component base="hungarumlaut" xOffset="434.500" yOffset="1104"/>
+    <component base="o"/>
   </outline>
 </glyph>

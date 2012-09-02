@@ -5,57 +5,28 @@
   <outline>
     <contour>
       <point x="478" y="0" type="line"/>
-      <point x="788" y="0" type="line"/>
-      <point x="788" y="360" type="line"/>
-      <point x="1272" y="360" type="line"/>
-      <point x="1272" y="547" type="line"/>
-      <point x="788" y="547" type="line"/>
-      <point x="788" y="726" type="line"/>
-      <point x="1272" y="726" type="line"/>
-      <point x="1272" y="914" type="line"/>
-      <point x="884" y="914" type="line"/>
-      <point x="1359" y="1516" type="line"/>
-      <point x="1012" y="1516" type="line"/>
-      <point x="631" y="994" type="line"/>
-      <point x="266" y="1516" type="line"/>
-      <point x="-98" y="1516" type="line"/>
-      <point x="385" y="914" type="line"/>
-      <point x="-10" y="914" type="line"/>
-      <point x="-10" y="726" type="line"/>
-      <point x="478" y="726" type="line"/>
-      <point x="478" y="547" type="line"/>
-      <point x="-10" y="547" type="line"/>
-      <point x="-10" y="360" type="line"/>
       <point x="478" y="360" type="line"/>
+      <point x="-10" y="360" type="line"/>
+      <point x="-10" y="547" type="line"/>
+      <point x="478" y="547" type="line"/>
+      <point x="478" y="726" type="line"/>
+      <point x="-10" y="726" type="line"/>
+      <point x="-10" y="914" type="line"/>
+      <point x="385" y="914" type="line"/>
+      <point x="-98" y="1516" type="line"/>
+      <point x="266" y="1516" type="line"/>
+      <point x="631" y="994" type="line"/>
+      <point x="1012" y="1516" type="line"/>
+      <point x="1359" y="1516" type="line"/>
+      <point x="884" y="914" type="line"/>
+      <point x="1272" y="914" type="line"/>
+      <point x="1272" y="726" type="line"/>
+      <point x="788" y="726" type="line"/>
+      <point x="788" y="547" type="line"/>
+      <point x="1272" y="547" type="line"/>
+      <point x="1272" y="360" type="line"/>
+      <point x="788" y="360" type="line"/>
+      <point x="788" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>yen</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1266</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

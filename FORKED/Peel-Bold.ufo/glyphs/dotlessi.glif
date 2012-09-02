@@ -5,15 +5,15 @@
   <outline>
     <contour>
       <point x="111" y="0" type="line"/>
-      <point x="394" y="0" type="line"/>
-      <point x="394" y="998" type="line"/>
       <point x="111" y="998" type="line"/>
+      <point x="394" y="998" type="line"/>
+      <point x="394" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="229" y="996" type="move"/>
+      <point x="229" y="996" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="411" y="10" type="move"/>
+      <point x="411" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
 </glyph>

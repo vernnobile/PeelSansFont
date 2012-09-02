@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordfeminine" format="1">
-  <advance width="1156"/>
+  <advance width="1184"/>
   <unicode hex="00AA"/>
   <outline>
-    <component base="a" xScale="0.975623286674" yScale="0.975623286674" xOffset="3" yOffset="523"/>
+    <component base="a" xOffset="3" yOffset="523" xScale="0.98" yScale="0.98"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ordfeminine</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1156</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
