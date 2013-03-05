@@ -58,13 +58,12 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizont
 DEI: 91125
 LangName: 1033 "" "" "" "vernon adams : Peel Bold : 2-6-2012" "" "Version 1.0" "" "" "" "Vernon Adams" 
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 19 8
+WinInfo: 63 21 11
 BeginPrivate: 6
 BlueFuzz 1 1
 BlueScale 20 0.022500000894069672
@@ -1338,6 +1337,13 @@ Flags: W
 HStem: 1298 218<543 719.109>
 VStem: 799 303<952.993 1226.16>
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 172 0 m 1
@@ -1875,6 +1881,13 @@ Flags: W
 HStem: -19 195<354 577.181> 772 245<338.825 632.408>
 VStem: 144 286<186.569 347.213> 660 281<233.322 343 627 740.545>
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 428 -19 m 0
@@ -2798,6 +2811,13 @@ VWidth: 0
 Flags: W
 HStem: -19 231<539.405 929.01> 806 210<522.062 768.888>
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 694 -19 m 0
@@ -4342,6 +4362,13 @@ Flags: W
 HStem: -21 235<471.218 754.089> 764 256<576.574 788.745>
 VStem: 871 296<341.318 677.45>
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 178 -405 m 1

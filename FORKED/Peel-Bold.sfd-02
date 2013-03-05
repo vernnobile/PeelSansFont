@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1362450066
-ModificationTime: 1362451036
+ModificationTime: 1362450825
 PfmFamily: 0
 TTFWeight: 400
 TTFWidth: 1
@@ -58,13 +58,12 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizont
 DEI: 91125
 LangName: 1033 "" "" "" "vernon adams : Peel Bold : 2-6-2012" "" "Version 1.0" "" "" "" "Vernon Adams" 
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 19 8
+WinInfo: 63 21 11
 BeginPrivate: 6
 BlueFuzz 1 1
 BlueScale 20 0.022500000894069672
@@ -1335,32 +1334,27 @@ Encoding: 82 82 79
 Width: 1268
 VWidth: 0
 Flags: W
-HStem: 1298 218<543 719.109>
-VStem: 799 303<952.993 1226.16>
 LayerCount: 2
 Fore
 SplineSet
-172 0 m 1
+837 711 m 1
+ 1015.69 809.803 1112.16 895.428 1112.16 1099.81 c 0
+ 1112.16 1510.13 607.37 1516 172 1516 c 1
+ 172 0 l 1
  466 0 l 1
  466 644 l 1
- 516 644 l 1
- 555 644 l 1
- 693 308 909 0 909 0 c 1
- 1183 0 l 1
- 1183 108 l 1
- 1070 284 913 478 822 688 c 1
- 1012 761 1102 918 1102 1095 c 0
- 1102 1395 848 1516 564 1516 c 2
- 172 1516 l 1
- 172 0 l 1
-466 856 m 1
+ 478.157 643.501 489.297 643.212 499.852 643.212 c 0
+ 522.494 643.212 542.448 644.544 564 648 c 1
+ 702 312 918 0 918 0 c 1
+ 1212 0 l 1
+ 1212 108 l 1
+ 1078 275 928 501 837 711 c 1
+466 834 m 1
  466 1298 l 1
- 543 1298 l 2
- 779 1298 799 1179 799 1076 c 0
- 799 946 690 858 489 856 c 1
- 466 856 l 1
-643 1516 m 0
-658 0 m 0
+ 729.878 1298 808 1220.95 808 1076 c 0
+ 808 936.45 677.066 834 466 834 c 1
+634 1514 m 0
+634 0 m 0
 EndSplineSet
 EndChar
 
@@ -1875,6 +1869,13 @@ Flags: W
 HStem: -19 195<354 577.181> 772 245<338.825 632.408>
 VStem: 144 286<186.569 347.213> 660 281<233.322 343 627 740.545>
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 428 -19 m 0
@@ -2798,6 +2799,13 @@ VWidth: 0
 Flags: W
 HStem: -19 231<539.405 929.01> 806 210<522.062 768.888>
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 694 -19 m 0
@@ -4336,30 +4344,27 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 238
-Width: 1285
+Width: 1281
 VWidth: 0
 Flags: W
-HStem: -21 235<471.218 754.089> 764 256<576.574 788.745>
-VStem: 871 296<341.318 677.45>
 LayerCount: 2
 Fore
 SplineSet
-178 -405 m 1
- 460 -405 l 1
- 460 30 l 1
- 504 2 582 -21 659 -21 c 0
- 998 -21 1167 257 1167 513 c 0
- 1167 788 1006 1020 734 1020 c 0
- 564 1020 460 875 460 875 c 1
- 460 996 l 1
- 178 996 l 1
- 178 -405 l 1
-624 214 m 0
- 544 214 487 239 460 254 c 1
- 460 701 l 1
- 491 719 575 764 661 764 c 0
- 812 764 871 648 871 519 c 0
- 871 367 786 214 624 214 c 0
+535 785 m 0
+ 509 785 461 778 461 778 c 1
+ 461 258 l 1
+ 461 258 530 229 618 229 c 0
+ 776 229 875 349 875 498 c 0
+ 875 647 761 785 535 785 c 0
+181 967 m 1
+ 310 1000 433 1017 546 1017 c 0
+ 905 1017 1157 846 1157 487 c 0
+ 1157 239 985 -16 650 -16 c 0
+ 588 -16 503 3 461 37 c 1
+ 461 -489 l 1
+ 181 -489 l 1
+ 181 967 l 1
+644 503 m 0
 EndSplineSet
 EndChar
 
